@@ -1,0 +1,253 @@
+{
+ "products": [
+  {
+   "id": "ss-cfe-pistol-454",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "label": "Hodgdon CFE Pistol 1 lb",
+   "packSize": 454,
+   "unit": "grams",
+   "url": "https://shootingstuff.co.za/hodgdon-cfe-pistol-propellant-1lb-454g",
+   "brand": "Hodgdon"
+  },
+  {
+   "id": "ss-frontier-9mm-124-fp-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "bullets",
+   "label": "Frontier CMJ 9mm 124gr FP 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "url": "https://shootingstuff.co.za/frontier-cmj-bullets-9mm-124gr-fp-1000",
+   "brand": "Frontier"
+  },
+  {
+   "id": "ss-spp-cci500-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "brand": "CCI",
+   "label": "CCI Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "url": "https://shootingstuff.co.za/cci-500-small-pistol-primers-1000"
+  },
+  {
+   "id": "chs-spp-fiocchi-150",
+   "vendor": "CHS Guns & Ammunition",
+   "kind": "primers",
+   "brand": "Fiocchi",
+   "label": "Fiocchi Small Pistol 150",
+   "packSize": 150,
+   "unit": "pieces",
+   "url": "https://chsguns.co.za/product/fiocchi-small-pistol-primers-150/"
+  },
+  {
+   "id": "ss-spp-fiocchi-1500",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "brand": "Fiocchi",
+   "label": "Fiocchi Small Pistol 1500",
+   "packSize": 1500,
+   "unit": "pieces",
+   "url": "https://shootingstuff.co.za/fiocchi-small-pistol-primers-1500"
+  },
+  {
+   "id": "ss-spp-medef-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "label": "Medef Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "url": "https://shootingstuff.co.za/medef-small-pistol-primers-1000",
+   "brand": "Medef"
+  },
+  {
+   "id": "chs-spp-sb-100",
+   "vendor": "CHS Guns & Ammunition",
+   "kind": "primers",
+   "brand": "S&B",
+   "label": "S&B Small Pistol 100",
+   "packSize": 100,
+   "unit": "pieces",
+   "url": "https://chsguns.co.za/product/sellier-bellot-small-pistol-primers-100/"
+  },
+  {
+   "id": "ss-spp-sb-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "brand": "S&B",
+   "label": "S&B Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "url": "https://shootingstuff.co.za/s-b-small-pistol-primers-1000"
+  },
+  {
+   "id": "rhino-spp-whiteriver-100",
+   "vendor": "Rhino Arms",
+   "kind": "primers",
+   "label": "White River Small Pistol 100",
+   "packSize": 100,
+   "unit": "pieces",
+   "url": "https://www.rhinoarms.co.za/whiteriver-small-pistol-primer-100/",
+   "brand": "White River"
+  },
+  {
+   "id": "ss-spp-whiteriver-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "label": "White River Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "url": "https://shootingstuff.co.za/white-river-small-pistol-primers-1000",
+   "brand": "White River"
+  },
+  {
+   "id": "chs-spp-winchester-100",
+   "vendor": "CHS Guns & Ammunition",
+   "kind": "primers",
+   "label": "Winchester Small Pistol 100",
+   "packSize": 100,
+   "unit": "pieces",
+   "url": "https://chsguns.co.za/product/winchester-small-pistol-primers-100/",
+   "brand": "Winchester"
+  },
+  {
+   "id": "ss-spp-winchester-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "label": "Winchester Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "url": "https://shootingstuff.co.za/winchester-small-pistol-primers-1000",
+   "brand": "Winchester"
+  },
+  {
+   "id": "chs-9mm-factory-sb124",
+   "vendor": "CHS Guns & Ammunition",
+   "kind": "factory",
+   "label": "S&B 9mm 124gr FMJ 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "url": "https://chsguns.co.za/product/sellier-bellot-9mmp-fmj-124gr-50/",
+   "brand": "S&B",
+   "default": true,
+   "benchmark": true
+  },
+  {
+   "id": "ss-9mm-factory-sb124-50",
+   "vendor": "Shooting Stuff",
+   "kind": "factory",
+   "brand": "S&B",
+   "caliber": "9mm",
+   "label": "S&B 9mm 124gr FMJ 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "url": "https://shootingstuff.co.za/s-b-ammo-9mmp-124gr-fmj-50",
+   "default": true,
+   "benchmark": true
+  },
+  {
+   "id": "ss-9mm-factory-sb124-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "factory",
+   "brand": "S&B",
+   "caliber": "9mm",
+   "label": "S&B 9mm 124gr FMJ 1000",
+   "packSize": 1000,
+   "unit": "rounds",
+   "url": "https://shootingstuff.co.za/s-b-ammo-9mmp-124gr-fmj-1000",
+   "default": true,
+   "benchmark": true
+  },
+  {
+   "id": "ss-9mm-factory-stv124",
+   "vendor": "Shooting Stuff",
+   "kind": "factory",
+   "caliber": "9mm",
+   "label": "STV Scorpio 9mm 124gr FMJ 1000",
+   "packSize": 1000,
+   "unit": "rounds",
+   "url": "https://shootingstuff.co.za/stv-scorpio-ammunition-9mmp-124gr-fmj-1000",
+   "brand": "STV",
+   "benchmark": true
+  },
+  {
+   "id": "zimbi-cfe-pistol-454",
+   "vendor": "Zimbi",
+   "kind": "powder",
+   "brand": "Hodgdon",
+   "label": "Hodgdon CFE Pistol 1 lb (size assumed; page doesn't state)",
+   "packSize": 454,
+   "unit": "grams",
+   "url": "https://zimbi.co.za/product/hodgdon-powder-cfe-pistol/"
+  },
+  {
+   "id": "zimbi-frontier-9mm-124-rn-1000",
+   "vendor": "Zimbi",
+   "kind": "bullets",
+   "brand": "Frontier",
+   "label": "Frontier CMJ 9mm 124gr RN 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "url": "https://zimbi.co.za/product/frontier-cmj-9mmp-124gr/"
+  },
+  {
+   "id": "zimbi-spp-cci500-100",
+   "vendor": "Zimbi",
+   "kind": "primers",
+   "brand": "CCI",
+   "label": "CCI 500 Small Pistol 100",
+   "packSize": 100,
+   "unit": "pieces",
+   "url": "https://zimbi.co.za/product/cci-500-small-pistol-pri-2/"
+  },
+  {
+   "id": "zimbi-9mm-factory-sb115-50",
+   "vendor": "Zimbi",
+   "kind": "factory",
+   "label": "S&B 9mm 115gr FMJ 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "url": "https://zimbi.co.za/product/sb-9mm-para-fmj-115gr-50/",
+   "brand": "S&B",
+   "benchmark": true
+  },
+  {
+   "id": "ss-9mm-factory-sb115-50",
+   "vendor": "Shooting Stuff",
+   "kind": "factory",
+   "label": "S&B 9mm 115gr FMJ 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "url": "https://shootingstuff.co.za/s-b-ammo-9mm-115gr-fmj-50",
+   "brand": "S&B",
+   "benchmark": true
+  },
+  {
+   "id": "ss-9mm-factory-sb115-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "factory",
+   "label": "S&B 9mm 115gr FMJ 1000",
+   "packSize": 1000,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "url": "https://shootingstuff.co.za/s-b-ammo-9mmp-115gr-fmj-1000",
+   "brand": "S&B",
+   "benchmark": true
+  },
+  {
+   "id": "chs-9mm-factory-sb115-50",
+   "vendor": "CHS Guns & Ammunition",
+   "kind": "factory",
+   "label": "S&B 9mm 115gr FMJ 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "url": "https://chsguns.co.za/product/sellier-bellot-9mmp-115gr-50/",
+   "brand": "S&B",
+   "benchmark": true
+  }
+ ]
+}

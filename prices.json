@@ -1,0 +1,593 @@
+{
+ "schema": 1,
+ "generated": "2026-11-02T18:18:16Z",
+ "currency": "ZAR",
+ "items": [
+  {
+   "id": "ss-cfe-pistol-454",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Hodgdon",
+   "label": "Hodgdon CFE Pistol 1 lb",
+   "packSize": 454,
+   "unit": "grams",
+   "caliber": null,
+   "name": "Hodgdon CFE Pistol Propellant - 1lb / 454g",
+   "url": "https://shootingstuff.co.za/hodgdon-cfe-pistol-propellant-1lb-454g",
+   "price": 1390.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 454,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1390.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-frontier-9mm-124-fp-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "bullets",
+   "brand": "Frontier",
+   "label": "Frontier CMJ 9mm 124gr FP 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "Frontier CMJ Bullets - 9mmP 124gr FP [1000]",
+   "url": "https://shootingstuff.co.za/frontier-cmj-bullets-9mm-124gr-fp-1000",
+   "price": 1990.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 1000,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1990.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-spp-cci500-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "brand": "CCI",
+   "label": "CCI Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "CCI 500 Small Pistol Primers #0014 (1000)",
+   "url": "https://shootingstuff.co.za/cci-500-small-pistol-primers-1000",
+   "price": 2190.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 1000,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 2190.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "chs-spp-fiocchi-150",
+   "vendor": "CHS Guns & Ammunition",
+   "kind": "primers",
+   "brand": "Fiocchi",
+   "label": "Fiocchi Small Pistol 150",
+   "packSize": 150,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "Fiocchi Small Pistol Primers (150)",
+   "url": "https://chsguns.co.za/product/fiocchi-small-pistol-primers-150/",
+   "price": 290.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 150,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 290.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-spp-fiocchi-1500",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "brand": "Fiocchi",
+   "label": "Fiocchi Small Pistol 1500",
+   "packSize": 1500,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "Fiocchi Small Pistol Primers (1500)",
+   "url": "https://shootingstuff.co.za/fiocchi-small-pistol-primers-1500",
+   "price": 2090.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 1500,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 2090.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-spp-medef-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "brand": "Medef",
+   "label": "Medef Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "Medef Small Pistol Primers [1000]",
+   "url": "https://shootingstuff.co.za/medef-small-pistol-primers-1000",
+   "price": 1190.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 1000,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1190.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "chs-spp-sb-100",
+   "vendor": "CHS Guns & Ammunition",
+   "kind": "primers",
+   "brand": "S&B",
+   "label": "S&B Small Pistol 100",
+   "packSize": 100,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "Sellier & Bellot Small Pistol Primers (100)",
+   "url": "https://chsguns.co.za/product/sellier-bellot-small-pistol-primers-100/",
+   "price": 280.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 100,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 280.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-spp-sb-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "brand": "S&B",
+   "label": "S&B Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "Sellier & Bellot Small Pistol Primers (1000)",
+   "url": "https://shootingstuff.co.za/s-b-small-pistol-primers-1000",
+   "price": 1390.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 1000,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1390.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "rhino-spp-whiteriver-100",
+   "vendor": "Rhino Arms",
+   "kind": "primers",
+   "brand": "White River",
+   "label": "White River Small Pistol 100",
+   "packSize": 100,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "Whiteriver Small Pistol Primer (100)",
+   "url": "https://www.rhinoarms.co.za/whiteriver-small-pistol-primer-100/",
+   "price": 130.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 100,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 130.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-spp-whiteriver-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "brand": "White River",
+   "label": "White River Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "White River Small Pistol Primers [1000]",
+   "url": "https://shootingstuff.co.za/white-river-small-pistol-primers-1000",
+   "price": 1350.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 1000,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1350.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "chs-spp-winchester-100",
+   "vendor": "CHS Guns & Ammunition",
+   "kind": "primers",
+   "brand": "Winchester",
+   "label": "Winchester Small Pistol 100",
+   "packSize": 100,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "Winchester Small Pistol Primers (100)",
+   "url": "https://chsguns.co.za/product/winchester-small-pistol-primers-100/",
+   "price": 275.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 100,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 275.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-spp-winchester-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "primers",
+   "brand": "Winchester",
+   "label": "Winchester Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "Winchester Small Pistol Primers (1000)",
+   "url": "https://shootingstuff.co.za/winchester-small-pistol-primers-1000",
+   "price": 2060.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 1000,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 2060.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "chs-9mm-factory-sb124",
+   "vendor": "CHS Guns & Ammunition",
+   "kind": "factory",
+   "brand": "S&B",
+   "label": "S&B 9mm 124gr FMJ 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "default": true,
+   "benchmark": true,
+   "name": "Sellier & Bellot 9mmP FMJ 124gr (50)",
+   "url": "https://chsguns.co.za/product/sellier-bellot-9mmp-fmj-124gr-50/",
+   "price": 395.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 50,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 395.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-9mm-factory-sb124-50",
+   "vendor": "Shooting Stuff",
+   "kind": "factory",
+   "brand": "S&B",
+   "label": "S&B 9mm 124gr FMJ 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "default": true,
+   "benchmark": true,
+   "name": "S&B Ammo - 9mmP 124gr FMJ [50]",
+   "url": "https://shootingstuff.co.za/s-b-ammo-9mmp-124gr-fmj-50",
+   "price": 370.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 50,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 370.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-9mm-factory-sb124-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "factory",
+   "brand": "S&B",
+   "label": "S&B 9mm 124gr FMJ 1000",
+   "packSize": 1000,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "default": true,
+   "benchmark": true,
+   "name": "S&B Ammo - 9mmP 124gr FMJ [1000]",
+   "url": "https://shootingstuff.co.za/s-b-ammo-9mmp-124gr-fmj-1000",
+   "price": 6650.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 1000,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 6650.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-9mm-factory-stv124",
+   "vendor": "Shooting Stuff",
+   "kind": "factory",
+   "brand": "STV",
+   "label": "STV Scorpio 9mm 124gr FMJ 1000",
+   "packSize": 1000,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "benchmark": true,
+   "name": "STV Scorpio Ammunition - 9mmP 124gr FMJ [1000]",
+   "url": "https://shootingstuff.co.za/stv-scorpio-ammunition-9mmp-124gr-fmj-1000",
+   "price": 6700.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 1000,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 6700.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "zimbi-cfe-pistol-454",
+   "vendor": "Zimbi",
+   "kind": "powder",
+   "brand": "Hodgdon",
+   "label": "Hodgdon CFE Pistol 1 lb (size assumed; page doesn't state)",
+   "packSize": 454,
+   "unit": "grams",
+   "caliber": null,
+   "name": "HODGDON POWDER CFE PISTOL",
+   "url": "https://zimbi.co.za/product/hodgdon-powder-cfe-pistol/",
+   "price": 1360.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1360.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "zimbi-frontier-9mm-124-rn-1000",
+   "vendor": "Zimbi",
+   "kind": "bullets",
+   "brand": "Frontier",
+   "label": "Frontier CMJ 9mm 124gr RN 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "FRONTIER CMJ 9MMP 124GR RN (1000)",
+   "url": "https://zimbi.co.za/product/frontier-cmj-9mmp-124gr/",
+   "price": 2220.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 1000,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 2220.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "zimbi-spp-cci500-100",
+   "vendor": "Zimbi",
+   "kind": "primers",
+   "brand": "CCI",
+   "label": "CCI 500 Small Pistol 100",
+   "packSize": 100,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "CCI 500 SMALL PISTOL PRIMERS /100",
+   "url": "https://zimbi.co.za/product/cci-500-small-pistol-pri-2/",
+   "price": 270.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 270.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "zimbi-9mm-factory-sb115-50",
+   "vendor": "Zimbi",
+   "kind": "factory",
+   "brand": "S&B",
+   "label": "S&B 9mm 115gr FMJ 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "benchmark": true,
+   "name": "Sellier & Bellot 9mm Parabellum  115 Grain FMJ (50)",
+   "url": "https://zimbi.co.za/product/sb-9mm-para-fmj-115gr-50/",
+   "price": 350.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 50,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 350.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-9mm-factory-sb115-50",
+   "vendor": "Shooting Stuff",
+   "kind": "factory",
+   "brand": "S&B",
+   "label": "S&B 9mm 115gr FMJ 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "benchmark": true,
+   "name": "Sellier & Bellot Ammo - 9mmP 115gr FMJ [50]",
+   "url": "https://shootingstuff.co.za/s-b-ammo-9mm-115gr-fmj-50",
+   "price": 345.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 50,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 345.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-9mm-factory-sb115-1000",
+   "vendor": "Shooting Stuff",
+   "kind": "factory",
+   "brand": "S&B",
+   "label": "S&B 9mm 115gr FMJ 1000",
+   "packSize": 1000,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "benchmark": true,
+   "name": "S&B Ammo - 9mmP 115gr FMJ [1000]",
+   "url": "https://shootingstuff.co.za/s-b-ammo-9mmp-115gr-fmj-1000",
+   "price": 6400.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 1000,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 6400.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "chs-9mm-factory-sb115-50",
+   "vendor": "CHS Guns & Ammunition",
+   "kind": "factory",
+   "brand": "S&B",
+   "label": "S&B 9mm 115gr FMJ 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "benchmark": true,
+   "name": "Sellier & Bellot 9mmP FMJ 115gr (50)",
+   "url": "https://chsguns.co.za/product/sellier-bellot-9mmp-115gr-50/",
+   "price": 395.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-02T18:18:16Z",
+   "error": null,
+   "detectedPack": 50,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 395.0,
+     "s": true
+    }
+   ]
+  }
+ ]
+}
