@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-11-02T18:18:16Z",
+ "generated": "2026-11-02T18:25:13Z",
  "currency": "ZAR",
  "items": [
   {
@@ -18,7 +18,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 454,
    "history": [
     {
@@ -43,7 +43,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 1000,
    "history": [
     {
@@ -68,7 +68,7 @@
    "inStock": false,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 1000,
    "history": [
     {
@@ -93,7 +93,7 @@
    "inStock": false,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "Expecting value: line 1 column 1 (char 0)",
    "detectedPack": 150,
    "history": [
     {
@@ -118,7 +118,7 @@
    "inStock": false,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 1500,
    "history": [
     {
@@ -143,7 +143,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 1000,
    "history": [
     {
@@ -168,7 +168,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "Expecting value: line 1 column 1 (char 0)",
    "detectedPack": 100,
    "history": [
     {
@@ -193,7 +193,7 @@
    "inStock": false,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 1000,
    "history": [
     {
@@ -217,7 +217,7 @@
    "price": 130.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
+   "checked": "2026-11-02T18:25:13Z",
    "error": null,
    "detectedPack": 100,
    "history": [
@@ -243,7 +243,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 1000,
    "history": [
     {
@@ -268,7 +268,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "Expecting value: line 1 column 1 (char 0)",
    "detectedPack": 100,
    "history": [
     {
@@ -293,7 +293,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 1000,
    "history": [
     {
@@ -320,7 +320,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "Expecting value: line 1 column 1 (char 0)",
    "detectedPack": 50,
    "history": [
     {
@@ -347,7 +347,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 50,
    "history": [
     {
@@ -374,7 +374,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 1000,
    "history": [
     {
@@ -400,7 +400,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 1000,
    "history": [
     {
@@ -424,7 +424,7 @@
    "price": 1360.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
+   "checked": "2026-11-02T18:25:13Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -449,7 +449,7 @@
    "price": 2220.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
+   "checked": "2026-11-02T18:25:13Z",
    "error": null,
    "detectedPack": 1000,
    "history": [
@@ -474,7 +474,7 @@
    "price": 270.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
+   "checked": "2026-11-02T18:25:13Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -500,7 +500,7 @@
    "price": 350.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
+   "checked": "2026-11-02T18:25:13Z",
    "error": null,
    "detectedPack": 50,
    "history": [
@@ -527,7 +527,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 50,
    "history": [
     {
@@ -553,7 +553,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 1000,
    "history": [
     {
@@ -579,7 +579,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-02T18:18:16Z",
-   "error": null,
+   "error": "Expecting value: line 1 column 1 (char 0)",
    "detectedPack": 50,
    "history": [
     {
