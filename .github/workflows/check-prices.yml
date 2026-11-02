@@ -1,0 +1,33 @@
+name: Check prices
+on:
+  schedule:
+    - cron: "0 4 * * *"    # 06:00 SAST (UTC+2)
+    - cron: "0 14 * * *"   # 16:00 SAST
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: check-prices
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check vendor prices
+        run: python3 check_prices.py products.json prices.json
+      - name: Validate feed
+        run: python3 -c "import json; d=json.load(open('prices.json')); assert d['schema']==1 and d['items'], 'empty feed'"
+      - name: Commit prices.json if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add prices.json
+          git diff --cached --quiet && { echo "No changes"; exit 0; }
+          git commit -m "Update prices $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase --autostash || true
+          git push
