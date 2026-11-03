@@ -12,16 +12,21 @@ VENDORS = {  # host -> platform
   "chsguns.co.za": "woo", "www.rhinoarms.co.za": "woo", "rhinoarms.co.za": "woo",
   "zimbi.co.za": "woo", "www.zimbi.co.za": "woo",
 }
+MIN_GAP = {  # per-vendor minimum seconds between requests (be polite; Shooting Stuff answers 400 when hit fast)
+  "shootingstuff.co.za": 8, "www.shootingstuff.co.za": 8,
+  "safarioutdoor.co.za": 6, "zimbi.co.za": 10, "www.zimbi.co.za": 10,
+  "chsguns.co.za": 6, "rhinoarms.co.za": 6, "www.rhinoarms.co.za": 6,
+}
 def get(url, timeout=25):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,application/json"})
     for attempt in range(3):  # retry transient errors (shops sometimes answer 400/429/5xx under load)
         try:
             with urllib.request.urlopen(req, timeout=timeout) as r: return r.read().decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
-            if attempt == 2 or e.code == 404: raise
+            if attempt == 2 or e.code in (403, 404): raise
         except (urllib.error.URLError, TimeoutError, OSError):
             if attempt == 2: raise
-        time.sleep(6 * (attempt + 1))
+        time.sleep(10 * (attempt + 1))
 def host(u): return urllib.parse.urlparse(u).netloc.lower()
 def base(u): p = urllib.parse.urlparse(u); return p.scheme + "://" + p.netloc
 
@@ -33,6 +38,7 @@ def woo(p):
     else: q = "search=" + urllib.parse.quote(p["search"]) + "&per_page=20"
     items = json.loads(get(b + "/wp-json/wc/store/v1/products?" + q))
     items = pick(items, p, lambda x: html.unescape(x["name"]))
+    if not items and p.get("url"): return generic(p)  # some shops hide restricted items (e.g. propellants) from the Store API
     if not items: raise LookupError("no matching product")
     x = items[0]; pr = x["prices"]; m = int(pr.get("currency_minor_unit", 2))
     return {"name": html.unescape(x["name"]), "url": x["permalink"], "price": int(pr["price"]) / 10 ** m,
@@ -76,10 +82,20 @@ def main():
     try: old = {x["id"]: x for x in json.load(open(out))["items"]}
     except Exception: old = {}
     now = datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"); day = now[:10]
-    items = []
-    for p in prods:
+    items = []; last = {}
+    def build(p):
+        hh = host(p.get("url") or p.get("vendorUrl", "")); gap = MIN_GAP.get(hh, 5 if VENDORS.get(hh) == "magento" else 2)  # Magento shops answer 400 when hit fast
+        w = last.get(hh, 0) + gap - time.time()
+        if w > 0: time.sleep(w)
+        t0 = time.time()
+        try:
+            r = one(p); print(p["id"], ("ERR " + r["error"]) if r.get("error") else r.get("price"), "%.1fs" % (time.time() - t0), flush=True); return r
+        finally: last[hh] = time.time()
+    def one(p):
         prev = old.get(p["id"], {}); hist = prev.get("history", [])
         it = {k: p.get(k) for k in ("id", "vendor", "kind", "brand", "label", "packSize", "unit", "caliber")}
+        for k in ("use", "packNote"):
+            if p.get(k): it[k] = p[k]
         if p.get("default"): it["default"] = True
         if p.get("benchmark"): it["benchmark"] = True
         try:
@@ -98,11 +114,20 @@ def main():
         lb = re.search(r"([0-9.]+)\s*(lb|kg|g)\b", it["name"], re.I)
         if lb and it.get("kind") == "powder":
             n = float(lb.group(1)); u = lb.group(2).lower(); it["detectedPack"] = round(n * (453.59237 if u == "lb" else 1000 if u == "kg" else 1))
-        it["history"] = hist[-400:]; items.append(it)
-        time.sleep(2)  # be polite
+        if it.get("kind") == "powder":  # normalise propellant to R/kg and R/grain (1 gr = 0.06479891 g)
+            g = it.get("detectedPack") or it.get("packSize")
+            it["sizeGrams"] = g; it["sizeSource"] = "product name" if it.get("detectedPack") else ("declared" if not p.get("packNote") or "URL" in p["packNote"] else "assumed")
+            if g and isinstance(it.get("price"), (int, float)):
+                it["pricePerKg"] = round(it["price"] / g * 1000, 2); it["pricePerGrain"] = round(it["price"] / g * 0.06479891, 4)
+        it["history"] = hist[-400:]; return it
+    items = [build(p) for p in prods]
+    retry = [i for i, it in enumerate(items) if it.get("error") and re.search(r"HTTP Error (400|429|5..)|timed out|URLError", it["error"])]
+    if retry:  # one slow second pass for transient refusals
+        time.sleep(60)
+        for i in retry: items[i] = build(prods[i])  # build() enforces the per-vendor gap
     if not items: sys.exit("no products, leaving " + out + " untouched")
     tmp = out + ".tmp"
     with open(tmp, "w") as fh: json.dump({"schema": 1, "generated": now, "currency": "ZAR", "items": items}, fh, indent=1)
     os.replace(tmp, out)  # atomic: a crash never leaves a half-written or empty feed
-    print(json.dumps([{k: i.get(k) for k in ("id", "price", "inStock", "error")} for i in items], indent=0))
+    print(json.dumps([{k: i.get(k) for k in ("id", "price", "pricePerKg", "inStock", "error")} for i in items], indent=0))
 if __name__ == "__main__": main()

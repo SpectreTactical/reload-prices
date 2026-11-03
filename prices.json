@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-11-02T18:25:13Z",
+ "generated": "2026-11-03T04:57:49Z",
  "currency": "ZAR",
  "items": [
   {
@@ -12,17 +12,27 @@
    "packSize": 454,
    "unit": "grams",
    "caliber": null,
+   "use": "pistol",
    "name": "Hodgdon CFE Pistol Propellant - 1lb / 454g",
    "url": "https://shootingstuff.co.za/hodgdon-cfe-pistol-propellant-1lb-454g",
    "price": 1390.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 454,
+   "sizeGrams": 454,
+   "sizeSource": "product name",
+   "pricePerKg": 3061.67,
+   "pricePerGrain": 0.1984,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 1390.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 1390.0,
      "s": true
     }
@@ -42,12 +52,17 @@
    "price": 1990.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 1000,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 1990.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 1990.0,
      "s": true
     }
@@ -67,12 +82,17 @@
    "price": 2190.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 1000,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 2190.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
      "p": 2190.0,
      "s": false
     }
@@ -92,12 +112,17 @@
    "price": 290.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "Expecting value: line 1 column 1 (char 0)",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 150,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 290.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
      "p": 290.0,
      "s": false
     }
@@ -117,12 +142,17 @@
    "price": 2090.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 1500,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 2090.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
      "p": 2090.0,
      "s": false
     }
@@ -142,12 +172,17 @@
    "price": 1190.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 1000,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 1190.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 1190.0,
      "s": true
     }
@@ -167,12 +202,17 @@
    "price": 280.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "Expecting value: line 1 column 1 (char 0)",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 100,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 280.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 280.0,
      "s": true
     }
@@ -192,12 +232,17 @@
    "price": 1390.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 1000,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 1390.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
      "p": 1390.0,
      "s": false
     }
@@ -217,12 +262,17 @@
    "price": 130.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:25:13Z",
+   "checked": "2026-11-03T04:57:49Z",
    "error": null,
    "detectedPack": 100,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 130.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 130.0,
      "s": true
     }
@@ -242,12 +292,17 @@
    "price": 1350.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 1000,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 1350.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 1350.0,
      "s": true
     }
@@ -267,12 +322,17 @@
    "price": 275.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "Expecting value: line 1 column 1 (char 0)",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 100,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 275.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 275.0,
      "s": true
     }
@@ -292,12 +352,17 @@
    "price": 2060.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 1000,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 2060.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 2060.0,
      "s": true
     }
@@ -319,12 +384,17 @@
    "price": 395.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "Expecting value: line 1 column 1 (char 0)",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 50,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 395.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 395.0,
      "s": true
     }
@@ -346,12 +416,17 @@
    "price": 370.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 50,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 370.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 370.0,
      "s": true
     }
@@ -373,12 +448,17 @@
    "price": 6650.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 1000,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 6650.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 6650.0,
      "s": true
     }
@@ -399,12 +479,17 @@
    "price": 6700.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 1000,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 6700.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 6700.0,
      "s": true
     }
@@ -419,17 +504,27 @@
    "packSize": 454,
    "unit": "grams",
    "caliber": null,
+   "use": "pistol",
    "name": "HODGDON POWDER CFE PISTOL",
    "url": "https://zimbi.co.za/product/hodgdon-powder-cfe-pistol/",
    "price": 1360.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:25:13Z",
+   "checked": "2026-11-03T04:57:49Z",
    "error": null,
    "detectedPack": null,
+   "sizeGrams": 454,
+   "sizeSource": "declared",
+   "pricePerKg": 2995.59,
+   "pricePerGrain": 0.1941,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 1360.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 1360.0,
      "s": true
     }
@@ -449,12 +544,17 @@
    "price": 2220.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:25:13Z",
+   "checked": "2026-11-03T04:57:49Z",
    "error": null,
    "detectedPack": 1000,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 2220.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 2220.0,
      "s": true
     }
@@ -474,12 +574,17 @@
    "price": 270.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:25:13Z",
+   "checked": "2026-11-03T04:57:49Z",
    "error": null,
    "detectedPack": null,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 270.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 270.0,
      "s": true
     }
@@ -500,12 +605,17 @@
    "price": 350.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:25:13Z",
+   "checked": "2026-11-03T04:57:49Z",
    "error": null,
    "detectedPack": 50,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 350.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 350.0,
      "s": true
     }
@@ -526,12 +636,17 @@
    "price": 345.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 50,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 345.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 345.0,
      "s": true
     }
@@ -552,12 +667,17 @@
    "price": 6400.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 1000,
    "history": [
     {
      "d": "2026-11-02",
+     "p": 6400.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
      "p": 6400.0,
      "s": true
     }
@@ -578,13 +698,1333 @@
    "price": 395.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-02T18:18:16Z",
-   "error": "Expecting value: line 1 column 1 (char 0)",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
    "detectedPack": 50,
    "history": [
     {
      "d": "2026-11-02",
      "p": 395.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 395.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-pwd-alliant-reloderunique-454",
+   "vendor": "Safari Outdoor",
+   "kind": "powder",
+   "brand": "Alliant",
+   "label": "Alliant Unique 1 lb",
+   "packSize": 454,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "ALLIANT RELODER UNIQUE VERSATILE FLAKE SMOKELESS GUN POWDER 454G",
+   "url": "https://safarioutdoor.co.za/alliant-reloder-unique-454g",
+   "price": 1099.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 454,
+   "sizeGrams": 454,
+   "sizeSource": "product name",
+   "pricePerKg": 2420.7,
+   "pricePerGrain": 0.1569,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1099.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1099.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-pwd-hodgdon-cfepistol-454",
+   "vendor": "Safari Outdoor",
+   "kind": "powder",
+   "brand": "Hodgdon",
+   "label": "Hodgdon CFE Pistol 1 lb",
+   "packSize": 454,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "HODGDON CFE PISTOL SMOKELESS GUN POWDER 454G",
+   "url": "https://safarioutdoor.co.za/hodgdon-cfe-pistol-454g",
+   "price": 1349.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 454,
+   "sizeGrams": 454,
+   "sizeSource": "product name",
+   "pricePerKg": 2971.37,
+   "pricePerGrain": 0.1925,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1349.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1349.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-pwd-hodgdon-titegroup-454",
+   "vendor": "Safari Outdoor",
+   "kind": "powder",
+   "brand": "Hodgdon",
+   "label": "Hodgdon Titegroup 1 lb",
+   "packSize": 454,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "HODGDON TITEGROUP 454G SMOKELESS GUN POWDER FAST-BURNING SPHERICAL PISTOL PROPELLANT",
+   "url": "https://safarioutdoor.co.za/hodgdon-titegroup-454g",
+   "price": 1149.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 454,
+   "sizeGrams": 454,
+   "sizeSource": "product name",
+   "pricePerKg": 2530.84,
+   "pricePerGrain": 0.164,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1149.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1149.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-pwd-somchem-mp200-500",
+   "vendor": "Safari Outdoor",
+   "kind": "powder",
+   "brand": "Somchem",
+   "label": "Somchem MP200 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "SOMCHEM MP200 (500G)",
+   "url": "https://safarioutdoor.co.za/somchem-mp200-500g",
+   "price": 749.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 1498.0,
+   "pricePerGrain": 0.0971,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 749.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
+     "p": 749.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "saf-pwd-somchem-s361-500",
+   "vendor": "Safari Outdoor",
+   "kind": "powder",
+   "brand": "Somchem",
+   "label": "Somchem S361 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "rifle",
+   "packNote": "size from product URL",
+   "name": "SOMCHEM S361 DOUBLE-BASE EXTRUDED SMOKELESS GUN POWDER 500G",
+   "url": "https://safarioutdoor.co.za/somchem-s361-500g",
+   "price": 649.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 1298.0,
+   "pricePerGrain": 0.0841,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 649.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 649.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-pwd-vihtavuori-3n37-500",
+   "vendor": "Safari Outdoor",
+   "kind": "powder",
+   "brand": "Vihtavuori",
+   "label": "Vihtavuori 3N37 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "VIHTAVUORI 3N37 SMOKELESS GUN POWDER 500G PREMIUM HANDGUN PROPELLANT",
+   "url": "https://safarioutdoor.co.za/vihtavouri-3n37-500g-handgun-premium-gun-powder",
+   "price": 1449.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 2898.0,
+   "pricePerGrain": 0.1878,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1449.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1449.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-alliant-unique-454",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Alliant",
+   "label": "Alliant Unique 1 lb",
+   "packSize": 454,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "Alliant Unique Propellant",
+   "url": "https://shootingstuff.co.za/alliant-unique-propellant-1lb-454g",
+   "price": 1290.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "sizeGrams": 454,
+   "sizeSource": "declared",
+   "pricePerKg": 2841.41,
+   "pricePerGrain": 0.1841,
+   "history": [
+    {
+     "d": "2026-11-03",
+     "p": 1290.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-hodgdon-longshot-454",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Hodgdon",
+   "label": "Hodgdon Longshot 1 lb",
+   "packSize": 454,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "Hodgdon Longshot Propellant - 1lb / 454g",
+   "url": "https://shootingstuff.co.za/hodgdon-longshot-propellant-1lb-454g",
+   "price": 1190.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 454,
+   "sizeGrams": 454,
+   "sizeSource": "product name",
+   "pricePerKg": 2621.15,
+   "pricePerGrain": 0.1698,
+   "history": [
+    {
+     "d": "2026-11-03",
+     "p": 1190.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-hodgdon-titegroup-454",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Hodgdon",
+   "label": "Hodgdon Titegroup 1 lb",
+   "packSize": 454,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "Hodgdon Titegroup Propellant - 1lb / 454g",
+   "url": "https://shootingstuff.co.za/hodgdon-titegroup-propellant-1lb-454g",
+   "price": 1150.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 454,
+   "sizeGrams": 454,
+   "sizeSource": "product name",
+   "pricePerKg": 2533.04,
+   "pricePerGrain": 0.1641,
+   "history": [
+    {
+     "d": "2026-11-03",
+     "p": 1150.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-somchem-mp200-500",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Somchem",
+   "label": "Somchem MP200 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size assumed (500g standard Somchem tin), not stated in URL",
+   "name": "Somchem MP200 Propellant",
+   "url": "https://shootingstuff.co.za/somchem-mp200-propellant",
+   "price": 1200.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "sizeGrams": 500,
+   "sizeSource": "declared",
+   "pricePerKg": 2400.0,
+   "pricePerGrain": 0.1555,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1200.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1200.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-somchem-ms200-500",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Somchem",
+   "label": "Somchem MS200 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size assumed (500g standard Somchem tin), not stated in URL",
+   "name": "Somchem MS200 Propellant",
+   "url": "https://shootingstuff.co.za/somchem-ms200-propellant",
+   "price": 1200.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "sizeGrams": 500,
+   "sizeSource": "declared",
+   "pricePerKg": 2400.0,
+   "pricePerGrain": 0.1555,
+   "history": [
+    {
+     "d": "2026-11-03",
+     "p": 1200.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-somchem-s121-500",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Somchem",
+   "label": "Somchem S121 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size assumed (500g standard Somchem tin), not stated in URL",
+   "name": "Somchem S121 Propellant",
+   "url": "https://shootingstuff.co.za/somchem-s121-propellant",
+   "price": 850.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "sizeGrams": 500,
+   "sizeSource": "declared",
+   "pricePerKg": 1700.0,
+   "pricePerGrain": 0.1102,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 850.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
+     "p": 850.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-somchem-s321-500",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Somchem",
+   "label": "Somchem S321 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "rifle",
+   "packNote": "size assumed (500g standard Somchem tin), not stated in URL",
+   "name": "Somchem S321 Propellant",
+   "url": "https://shootingstuff.co.za/somchem-s321-propellant",
+   "price": 650.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "sizeGrams": 500,
+   "sizeSource": "declared",
+   "pricePerKg": 1300.0,
+   "pricePerGrain": 0.0842,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 650.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
+     "p": 650.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-somchem-s361-500",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Somchem",
+   "label": "Somchem S361 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "rifle",
+   "packNote": "size assumed (500g standard Somchem tin), not stated in URL",
+   "name": "S361 - 500g tin",
+   "url": "https://shootingstuff.co.za/somchem-s361-propellant",
+   "price": 650.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 1300.0,
+   "pricePerGrain": 0.0842,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 650.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
+     "p": 650.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-vihtavuori-3n37-500",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Vihtavuori",
+   "label": "Vihtavuori 3N37 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "Vihtavuori 3N37 Handgun Propellant - 500g",
+   "url": "https://shootingstuff.co.za/vihtavuori-3n37-handgun-propellant-500g",
+   "price": 1550.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 3100.0,
+   "pricePerGrain": 0.2009,
+   "history": [
+    {
+     "d": "2026-11-03",
+     "p": 1550.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-vihtavuori-3n38-500",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Vihtavuori",
+   "label": "Vihtavuori 3N38 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "Vihtavuori 3N38 Handgun Propellant - 500g",
+   "url": "https://shootingstuff.co.za/vihtavuori-3n38-handgun-propellant-500g",
+   "price": 1550.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 3100.0,
+   "pricePerGrain": 0.2009,
+   "history": [
+    {
+     "d": "2026-11-03",
+     "p": 1550.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-vihtavuori-n310-500",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Vihtavuori",
+   "label": "Vihtavuori N310 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "Vihtavuori N310 Handgun Propellant - 500g",
+   "url": "https://shootingstuff.co.za/vihtavuori-n310-handgun-propellant-500g",
+   "price": 1550.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 3100.0,
+   "pricePerGrain": 0.2009,
+   "history": [
+    {
+     "d": "2026-11-03",
+     "p": 1550.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-vihtavuori-n320-500",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Vihtavuori",
+   "label": "Vihtavuori N320 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "Vihtavuori N320 Handgun Propellant - 500g",
+   "url": "https://shootingstuff.co.za/vihtavuori-n320-handgun-propellant-500g",
+   "price": 1550.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 3100.0,
+   "pricePerGrain": 0.2009,
+   "history": [
+    {
+     "d": "2026-11-03",
+     "p": 1550.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-vihtavuori-n330-500",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Vihtavuori",
+   "label": "Vihtavuori N330 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "VihtaVuori N330 Handgun Propellant 500g - Reloading Components",
+   "url": "https://shootingstuff.co.za/vihtavuori-n330-handgun-propellant-500g",
+   "price": 1550.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 3100.0,
+   "pricePerGrain": 0.2009,
+   "history": [
+    {
+     "d": "2026-11-03",
+     "p": 1550.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "ss-pwd-vihtavuori-n340-500",
+   "vendor": "Shooting Stuff",
+   "kind": "powder",
+   "brand": "Vihtavuori",
+   "label": "Vihtavuori N340 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "VihtaVuori N340 Handgun Propellant - 500g",
+   "url": "https://shootingstuff.co.za/vihtavuori-n340-handgun-propellant-500g",
+   "price": 1550.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 3100.0,
+   "pricePerGrain": 0.2009,
+   "history": [
+    {
+     "d": "2026-11-03",
+     "p": 1550.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "rhino-pwd-vihtavuori-3n37-500",
+   "vendor": "Rhino Arms",
+   "kind": "powder",
+   "brand": "Vihtavuori",
+   "label": "Vihtavuori 3N37 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "VIHTAVUORI 3N37 0.5kg",
+   "url": "https://www.rhinoarms.co.za/vihtavuori-3n37-0-5kg/",
+   "price": 1293.67,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 2587.34,
+   "pricePerGrain": 0.1677,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1293.67,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1293.67,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "rhino-pwd-vihtavuori-3n38-500",
+   "vendor": "Rhino Arms",
+   "kind": "powder",
+   "brand": "Vihtavuori",
+   "label": "Vihtavuori 3N38 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size from product URL",
+   "name": "VIHTAVUORI 3N38 0.5kg",
+   "url": "https://www.rhinoarms.co.za/vihtavuori-3n38-0-5kg/",
+   "price": 1293.67,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 500,
+   "sizeGrams": 500,
+   "sizeSource": "product name",
+   "pricePerKg": 2587.34,
+   "pricePerGrain": 0.1677,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1293.67,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1293.67,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "zimbi-pwd-alliant-unique-454",
+   "vendor": "Zimbi",
+   "kind": "powder",
+   "brand": "Alliant",
+   "label": "Alliant Unique 1 lb",
+   "packSize": 454,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size assumed (454g standard Alliant tin), not stated in URL",
+   "name": "UNIQUE PISTOL POWDER",
+   "url": "https://zimbi.co.za/product/alliant-powder-unique/",
+   "price": 1250.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "sizeGrams": 454,
+   "sizeSource": "declared",
+   "pricePerKg": 2753.3,
+   "pricePerGrain": 0.1784,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1250.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1250.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "zimbi-pwd-hodgdon-longshot-454",
+   "vendor": "Zimbi",
+   "kind": "powder",
+   "brand": "Hodgdon",
+   "label": "Hodgdon Longshot 1 lb",
+   "packSize": 454,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size assumed (454g standard Hodgdon tin), not stated in URL",
+   "name": "HODGDON POWDER LONGSHOT",
+   "url": "https://zimbi.co.za/product/hodgdon-powder-longshot/",
+   "price": 1200.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "sizeGrams": 454,
+   "sizeSource": "declared",
+   "pricePerKg": 2643.17,
+   "pricePerGrain": 0.1713,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1200.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1200.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "zimbi-pwd-hodgdon-titegroup-454",
+   "vendor": "Zimbi",
+   "kind": "powder",
+   "brand": "Hodgdon",
+   "label": "Hodgdon Titegroup 1 lb",
+   "packSize": 454,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size assumed (454g standard Hodgdon tin), not stated in URL",
+   "name": "HODGDON POWDER TITEGROUP",
+   "url": "https://zimbi.co.za/product/hodgdon-powder-titegroup/",
+   "price": 1250.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "sizeGrams": 454,
+   "sizeSource": "declared",
+   "pricePerKg": 2753.3,
+   "pricePerGrain": 0.1784,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1250.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1250.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "zimbi-pwd-vihtavuori-3n37-500",
+   "vendor": "Zimbi",
+   "kind": "powder",
+   "brand": "Vihtavuori",
+   "label": "Vihtavuori 3N37 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size assumed (500g standard Vihtavuori tin), not stated in URL",
+   "name": "VIHTAVUORI 3N37",
+   "url": "https://zimbi.co.za/product/vihtavuori-3n37/",
+   "price": 1500.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "sizeGrams": 500,
+   "sizeSource": "declared",
+   "pricePerKg": 3000.0,
+   "pricePerGrain": 0.1944,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1500.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1500.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "zimbi-pwd-vihtavuori-3n38-500",
+   "vendor": "Zimbi",
+   "kind": "powder",
+   "brand": "Vihtavuori",
+   "label": "Vihtavuori 3N38 500 g",
+   "packSize": 500,
+   "unit": "grams",
+   "caliber": null,
+   "use": "pistol",
+   "packNote": "size assumed (500g standard Vihtavuori tin), not stated in URL",
+   "name": "VIHTAVUORI 3N38",
+   "url": "https://zimbi.co.za/product/vihtavuori-3n38/",
+   "price": 1400.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "sizeGrams": 500,
+   "sizeSource": "declared",
+   "pricePerKg": 2800.0,
+   "pricePerGrain": 0.1814,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1400.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1400.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-spp-cci500-1000",
+   "vendor": "Safari Outdoor",
+   "kind": "primers",
+   "brand": "CCI",
+   "label": "Cci Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "CCI SMALL PISTOL PRIMER 500 1000 COUNT RELIABLE IGNITION FOR PISTOL RELOADING",
+   "url": "https://safarioutdoor.co.za/primers-small-pistol-cci-500-1000",
+   "price": 2199.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 2199.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 2199.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-spp-cci500-100",
+   "vendor": "Safari Outdoor",
+   "kind": "primers",
+   "brand": "CCI",
+   "label": "Cci Small Pistol 100",
+   "packSize": 100,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "CCI SMALL PISTOL PRIMER 500 100 PACK RELIABLE IGNITION FOR PISTOL RELOADING",
+   "url": "https://safarioutdoor.co.za/primers-small-pistol-cci-500-100",
+   "price": 279.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 279.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 279.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-spp-fiocchi-150",
+   "vendor": "Safari Outdoor",
+   "kind": "primers",
+   "brand": "Fiocchi",
+   "label": "Fiocchi Small Pistol 150",
+   "packSize": 150,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "FIOCCHI PISTOL SMALL PISTOL PRIMER 150 PACK",
+   "url": "https://safarioutdoor.co.za/primers-small-pistol-fiocchi-150",
+   "price": 269.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 269.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 269.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-spp-fiocchi-1500",
+   "vendor": "Safari Outdoor",
+   "kind": "primers",
+   "brand": "Fiocchi",
+   "label": "Fiocchi Small Pistol 1500",
+   "packSize": 1500,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "FIOCCHI SMALL PISTOL PRIMER 1500 PACK RELOADING PRIMERS FOR IPSC & SPORT SHOOTING",
+   "url": "https://safarioutdoor.co.za/primers-small-pistol-fiocchi-1500",
+   "price": 2799.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 2799.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 2799.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-spp-federal100-100",
+   "vendor": "Safari Outdoor",
+   "kind": "primers",
+   "brand": "Federal",
+   "label": "Federal 100 Small Pistol 100",
+   "packSize": 100,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "FEDERAL SMALL PISTOL PRIMER #100 100 PACK",
+   "url": "https://safarioutdoor.co.za/primers-small-pistol-federal-100-100",
+   "price": 319.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 319.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 319.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-spp-federal100-1000",
+   "vendor": "Safari Outdoor",
+   "kind": "primers",
+   "brand": "Federal",
+   "label": "Federal 100 Small Pistol 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "caliber": null,
+   "name": "FEDERAL SMALL PISTOL PRIMER #100 1000 COUNT",
+   "url": "https://safarioutdoor.co.za/primers-small-pistol-federal-100-1000",
+   "price": 2599.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 2599.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 2599.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-frontier-9mm-124-rn-1000",
+   "vendor": "Safari Outdoor",
+   "kind": "bullets",
+   "brand": "Frontier",
+   "label": "Frontier Cmj 9mm 124gr RN 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "caliber": "9mm",
+   "name": "PH 9MM 124GR FRONTIER CMJ RN (1000)",
+   "url": "https://safarioutdoor.co.za/ph-9mm-124gr-frontier-cmj-rn-1000",
+   "price": 2399.0,
+   "inStock": false,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": 1000,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 2399.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-03",
+     "p": 2399.0,
+     "s": false
+    }
+   ]
+  },
+  {
+   "id": "saf-frontier-10mm-180-rnfp-500",
+   "vendor": "Safari Outdoor",
+   "kind": "bullets",
+   "brand": "Frontier",
+   "label": "Frontier Cmj .40/10mm 180gr Rnfp 500",
+   "packSize": 500,
+   "unit": "pieces",
+   "caliber": "10mm",
+   "name": "FRONTIER 40 S&W / 10MM AUTO 180GR CMJ RNFP HANDGUN BULLET - 500 COUNT",
+   "url": "https://safarioutdoor.co.za/ph-40-10mm-180gr-frontier-cmj-rnfp-500",
+   "price": 1599.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1599.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1599.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-bp-9mm-125-polymer-250",
+   "vendor": "Safari Outdoor",
+   "kind": "bullets",
+   "brand": "Silver Rapids",
+   "label": "Silver Rapids 9mm 125gr Bpj 250",
+   "packSize": 250,
+   "unit": "pieces",
+   "caliber": "9mm",
+   "name": "SILVER RAPIDS BPJ RN POLYMER 9MM 125GR HANDGUN BULLET - 250 COUNT",
+   "url": "https://safarioutdoor.co.za/ph-9mm-125gr-silver-rapids-bpj-rn-polymer-250",
+   "price": 459.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 459.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 459.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-bp-9mm-147-polymer-1000",
+   "vendor": "Safari Outdoor",
+   "kind": "bullets",
+   "brand": "Silver Rapids",
+   "label": "Silver Rapids 9mm 147gr Bpj 1000",
+   "packSize": 1000,
+   "unit": "pieces",
+   "caliber": "9mm",
+   "name": "SILVER RAPIDS BPJ RN POLYMER 9MM 147GR HANDGUN BULLET - 1000 COUNT",
+   "url": "https://safarioutdoor.co.za/ph-9mm-147gr-silver-rapids-bpj-rn-polymer-1000",
+   "price": 1899.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 1899.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1899.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-9mm-factory-sb124-50",
+   "vendor": "Safari Outdoor",
+   "kind": "factory",
+   "brand": "S&B",
+   "label": "S&B 9mm 124gr Fmj 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "benchmark": true,
+   "name": "SELLIER & BELLOT 9MM LUGER 124GR FMJ FULL METAL JACKET HANDGUN AMMUNITION (50/BOX)",
+   "url": "https://safarioutdoor.co.za/sellier-bellot-9mm-luger-124gr-fmj-full-metal-jacket-handgun-ammunition-50-box",
+   "price": 419.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 419.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 419.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-9mm-factory-magtech115-50",
+   "vendor": "Safari Outdoor",
+   "kind": "factory",
+   "brand": "Magtech",
+   "label": "Magtech 9mm 115gr Fmj 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "benchmark": true,
+   "name": "MAGTECH 9MM LUGER 115GR FMJ HANDGUN AMMUNITION STANDARD PRESSURE (50/BOX)",
+   "url": "https://safarioutdoor.co.za/ammo-9mm-luger-115gr-magtech-fmj-50",
+   "price": 339.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 339.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 339.0,
+     "s": true
+    }
+   ]
+  },
+  {
+   "id": "saf-9mm-factory-geco124-50",
+   "vendor": "Safari Outdoor",
+   "kind": "factory",
+   "brand": "GECO",
+   "label": "Geco 9mm 124gr Fmj 50",
+   "packSize": 50,
+   "unit": "rounds",
+   "caliber": "9mm",
+   "benchmark": true,
+   "name": "GECO 9MM LUGER 124GR FMJ FULL METAL JACKET HANDGUN AMMUNITION (50/BOX)",
+   "url": "https://safarioutdoor.co.za/ammo-9mm-luger-124gr-geco-fmj-50",
+   "price": 339.0,
+   "inStock": true,
+   "currency": "ZAR",
+   "checked": "2026-11-03T04:57:49Z",
+   "error": null,
+   "detectedPack": null,
+   "history": [
+    {
+     "d": "2026-11-02",
+     "p": 339.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-03",
+     "p": 339.0,
      "s": true
     }
    ]
