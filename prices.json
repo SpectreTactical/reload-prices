@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-11-16T23:08:22Z",
+ "generated": "2026-11-17T12:51:42Z",
  "currency": "ZAR",
  "items": [
   {
@@ -112,7 +112,7 @@
    "price": 290.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 150,
    "history": [
@@ -163,6 +163,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 290.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-17",
      "p": 290.0,
      "s": false
     }
@@ -242,7 +247,7 @@
    "price": 280.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 100,
    "history": [
@@ -295,6 +300,11 @@
      "d": "2026-11-16",
      "p": 280.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 280.0,
+     "s": true
     }
    ]
   },
@@ -343,7 +353,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-16T23:08:22Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 100,
    "history": [
     {
@@ -467,7 +477,7 @@
    "price": 275.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 100,
    "history": [
@@ -520,6 +530,11 @@
      "d": "2026-11-16",
      "p": 275.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 275.0,
+     "s": true
     }
    ]
   },
@@ -569,7 +584,7 @@
    "price": 395.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 50,
    "history": [
@@ -620,6 +635,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 395.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 395.0,
      "s": true
     }
@@ -735,7 +755,7 @@
    "price": 1360.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
@@ -817,6 +837,11 @@
      "d": "2026-11-16",
      "p": 1360.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1360.0,
+     "s": true
     }
    ]
   },
@@ -829,14 +854,14 @@
    "packSize": 1000,
    "unit": "pieces",
    "caliber": null,
-   "name": "FRONTIER CMJ 9MMP 124GR RN (1000) \u2013 Zimbi",
+   "name": "FRONTIER CMJ 9MMP 124GR RN (1000)",
    "url": "https://zimbi.co.za/product/frontier-cmj-9mmp-124gr/",
    "price": 2220.0,
-   "inStock": false,
+   "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
-   "detectedPack": null,
+   "detectedPack": 1000,
    "history": [
     {
      "d": "2026-11-02",
@@ -912,6 +937,11 @@
      "d": "2026-11-16",
      "p": 2220.0,
      "s": false
+    },
+    {
+     "d": "2026-11-17",
+     "p": 2220.0,
+     "s": true
     }
    ]
   },
@@ -929,8 +959,8 @@
    "price": 270.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-15T19:30:15Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-17T12:51:42Z",
+   "error": null,
    "detectedPack": null,
    "history": [
     {
@@ -1002,6 +1032,11 @@
      "d": "2026-11-15",
      "p": 270.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 270.0,
+     "s": true
     }
    ]
   },
@@ -1020,8 +1055,8 @@
    "price": 350.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-15T19:30:15Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-17T12:51:42Z",
+   "error": null,
    "detectedPack": 50,
    "history": [
     {
@@ -1091,6 +1126,11 @@
     },
     {
      "d": "2026-11-15",
+     "p": 350.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 350.0,
      "s": true
     }
@@ -1173,7 +1213,7 @@
    "price": 395.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 50,
    "history": [
@@ -1226,6 +1266,11 @@
      "d": "2026-11-16",
      "p": 395.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 395.0,
+     "s": true
     }
    ]
   },
@@ -1245,7 +1290,7 @@
    "price": 1099.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 454,
    "sizeGrams": 454,
@@ -1327,6 +1372,11 @@
      "d": "2026-11-16",
      "p": 1099.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1099.0,
+     "s": true
     }
    ]
   },
@@ -1346,7 +1396,7 @@
    "price": 1349.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 454,
    "sizeGrams": 454,
@@ -1428,6 +1478,11 @@
      "d": "2026-11-16",
      "p": 1349.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1349.0,
+     "s": true
     }
    ]
   },
@@ -1447,7 +1502,7 @@
    "price": 1149.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 454,
    "sizeGrams": 454,
@@ -1529,6 +1584,11 @@
      "d": "2026-11-16",
      "p": 1149.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1149.0,
+     "s": true
     }
    ]
   },
@@ -1548,7 +1608,7 @@
    "price": 749.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 500,
    "sizeGrams": 500,
@@ -1630,6 +1690,11 @@
      "d": "2026-11-16",
      "p": 749.0,
      "s": false
+    },
+    {
+     "d": "2026-11-17",
+     "p": 749.0,
+     "s": false
     }
    ]
   },
@@ -1649,7 +1714,7 @@
    "price": 649.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 500,
    "sizeGrams": 500,
@@ -1731,6 +1796,11 @@
      "d": "2026-11-16",
      "p": 649.0,
      "s": false
+    },
+    {
+     "d": "2026-11-17",
+     "p": 649.0,
+     "s": false
     }
    ]
   },
@@ -1750,7 +1820,7 @@
    "price": 1449.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 500,
    "sizeGrams": 500,
@@ -1830,6 +1900,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 1449.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-17",
      "p": 1449.0,
      "s": false
     }
@@ -2306,7 +2381,7 @@
    "inStock": false,
    "currency": "ZAR",
    "checked": "2026-11-16T23:08:22Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 500,
    "sizeGrams": 500,
    "sizeSource": "product name",
@@ -2407,7 +2482,7 @@
    "inStock": false,
    "currency": "ZAR",
    "checked": "2026-11-16T23:08:22Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 500,
    "sizeGrams": 500,
    "sizeSource": "product name",
@@ -2507,8 +2582,8 @@
    "price": 1250.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-15T19:30:15Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-17T12:51:42Z",
+   "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
    "sizeSource": "declared",
@@ -2584,6 +2659,11 @@
      "d": "2026-11-15",
      "p": 1250.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1250.0,
+     "s": true
     }
    ]
   },
@@ -2603,8 +2683,8 @@
    "price": 1200.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-15T19:30:15Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-17T12:51:42Z",
+   "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
    "sizeSource": "declared",
@@ -2680,6 +2760,11 @@
      "d": "2026-11-15",
      "p": 1200.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1200.0,
+     "s": true
     }
    ]
   },
@@ -2699,8 +2784,8 @@
    "price": 1250.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-15T19:30:15Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-17T12:51:42Z",
+   "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
    "sizeSource": "declared",
@@ -2776,6 +2861,11 @@
      "d": "2026-11-15",
      "p": 1250.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1250.0,
+     "s": true
     }
    ]
   },
@@ -2795,8 +2885,8 @@
    "price": 1500.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-15T19:30:15Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-17T12:51:42Z",
+   "error": null,
    "detectedPack": null,
    "sizeGrams": 500,
    "sizeSource": "declared",
@@ -2872,6 +2962,11 @@
      "d": "2026-11-15",
      "p": 1500.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1500.0,
+     "s": true
     }
    ]
   },
@@ -2888,16 +2983,16 @@
    "packNote": "size assumed (500g standard Vihtavuori tin), not stated in URL",
    "name": "VIHTAVUORI 3N38",
    "url": "https://zimbi.co.za/product/vihtavuori-3n38/",
-   "price": 1400.0,
+   "price": 1500.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-15T19:30:15Z",
-   "error": "HTTP Error 403: Forbidden",
+   "checked": "2026-11-17T12:51:42Z",
+   "error": null,
    "detectedPack": null,
    "sizeGrams": 500,
    "sizeSource": "declared",
-   "pricePerKg": 2800.0,
-   "pricePerGrain": 0.1814,
+   "pricePerKg": 3000.0,
+   "pricePerGrain": 0.1944,
    "history": [
     {
      "d": "2026-11-02",
@@ -2968,6 +3063,11 @@
      "d": "2026-11-15",
      "p": 1400.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1500.0,
+     "s": true
     }
    ]
   },
@@ -2985,7 +3085,7 @@
    "price": 2199.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -3061,6 +3161,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 2199.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 2199.0,
      "s": true
     }
@@ -3080,7 +3185,7 @@
    "price": 279.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -3156,6 +3261,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 279.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 279.0,
      "s": true
     }
@@ -3175,7 +3285,7 @@
    "price": 269.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -3251,6 +3361,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 269.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 269.0,
      "s": true
     }
@@ -3270,7 +3385,7 @@
    "price": 2799.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -3346,6 +3461,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 2799.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 2799.0,
      "s": true
     }
@@ -3365,7 +3485,7 @@
    "price": 319.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -3441,6 +3561,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 319.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 319.0,
      "s": true
     }
@@ -3460,7 +3585,7 @@
    "price": 2599.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -3538,6 +3663,11 @@
      "d": "2026-11-16",
      "p": 2599.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 2599.0,
+     "s": true
     }
    ]
   },
@@ -3555,7 +3685,7 @@
    "price": 2399.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": 1000,
    "history": [
@@ -3633,6 +3763,11 @@
      "d": "2026-11-16",
      "p": 2399.0,
      "s": false
+    },
+    {
+     "d": "2026-11-17",
+     "p": 2399.0,
+     "s": false
     }
    ]
   },
@@ -3650,7 +3785,7 @@
    "price": 1599.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -3726,6 +3861,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 1599.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 1599.0,
      "s": true
     }
@@ -3745,7 +3885,7 @@
    "price": 459.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -3821,6 +3961,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 459.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 459.0,
      "s": true
     }
@@ -3840,7 +3985,7 @@
    "price": 1899.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -3916,6 +4061,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 1899.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 1899.0,
      "s": true
     }
@@ -3934,9 +4084,9 @@
    "name": "SELLIER & BELLOT 9MM LUGER 124GR FMJ FULL METAL JACKET HANDGUN AMMUNITION (50/BOX)",
    "url": "https://safarioutdoor.co.za/sellier-bellot-9mm-luger-124gr-fmj-full-metal-jacket-handgun-ammunition-50-box",
    "price": 419.0,
-   "inStock": true,
+   "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4014,6 +4164,11 @@
      "d": "2026-11-16",
      "p": 419.0,
      "s": true
+    },
+    {
+     "d": "2026-11-17",
+     "p": 419.0,
+     "s": false
     }
    ]
   },
@@ -4032,7 +4187,7 @@
    "price": 339.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4108,6 +4263,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 339.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 339.0,
      "s": true
     }
@@ -4128,7 +4288,7 @@
    "price": 339.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-16T23:08:22Z",
+   "checked": "2026-11-17T12:51:42Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4204,6 +4364,11 @@
     },
     {
      "d": "2026-11-16",
+     "p": 339.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-17",
      "p": 339.0,
      "s": true
     }
