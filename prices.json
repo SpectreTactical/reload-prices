@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-11-24T14:38:47Z",
+ "generated": "2026-11-25T13:59:11Z",
  "currency": "ZAR",
  "items": [
   {
@@ -112,7 +112,7 @@
    "price": 290.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 150,
    "history": [
@@ -205,6 +205,11 @@
      "d": "2026-11-24",
      "p": 290.0,
      "s": false
+    },
+    {
+     "d": "2026-11-25",
+     "p": 290.0,
+     "s": false
     }
    ]
   },
@@ -282,7 +287,7 @@
    "price": 280.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 100,
    "history": [
@@ -375,6 +380,11 @@
      "d": "2026-11-24",
      "p": 280.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 280.0,
+     "s": true
     }
    ]
   },
@@ -422,7 +432,7 @@
    "price": 130.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 100,
    "history": [
@@ -540,6 +550,11 @@
      "d": "2026-11-24",
      "p": 130.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 130.0,
+     "s": true
     }
    ]
   },
@@ -587,7 +602,7 @@
    "price": 275.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 100,
    "history": [
@@ -680,6 +695,11 @@
      "d": "2026-11-24",
      "p": 275.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 275.0,
+     "s": true
     }
    ]
   },
@@ -729,7 +749,7 @@
    "price": 395.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 50,
    "history": [
@@ -820,6 +840,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 395.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 395.0,
      "s": true
     }
@@ -935,7 +960,7 @@
    "price": 1360.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
@@ -1057,6 +1082,11 @@
      "d": "2026-11-24",
      "p": 1360.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 1360.0,
+     "s": true
     }
    ]
   },
@@ -1074,7 +1104,7 @@
    "price": 2220.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 1000,
    "history": [
@@ -1192,6 +1222,11 @@
      "d": "2026-11-24",
      "p": 2220.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 2220.0,
+     "s": true
     }
    ]
   },
@@ -1209,7 +1244,7 @@
    "price": 270.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -1322,6 +1357,11 @@
      "d": "2026-11-24",
      "p": 270.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 270.0,
+     "s": true
     }
    ]
   },
@@ -1340,7 +1380,7 @@
    "price": 350.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 50,
    "history": [
@@ -1453,6 +1493,11 @@
      "d": "2026-11-24",
      "p": 350.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 350.0,
+     "s": true
     }
    ]
   },
@@ -1533,7 +1578,7 @@
    "price": 395.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 50,
    "history": [
@@ -1626,6 +1671,11 @@
      "d": "2026-11-24",
      "p": 395.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 395.0,
+     "s": true
     }
    ]
   },
@@ -1645,7 +1695,7 @@
    "price": 1099.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 454,
    "sizeGrams": 454,
@@ -1767,6 +1817,11 @@
      "d": "2026-11-24",
      "p": 1099.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 1099.0,
+     "s": true
     }
    ]
   },
@@ -1786,7 +1841,7 @@
    "price": 1349.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 454,
    "sizeGrams": 454,
@@ -1908,6 +1963,11 @@
      "d": "2026-11-24",
      "p": 1349.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 1349.0,
+     "s": true
     }
    ]
   },
@@ -1927,7 +1987,7 @@
    "price": 1149.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 454,
    "sizeGrams": 454,
@@ -2049,6 +2109,11 @@
      "d": "2026-11-24",
      "p": 1149.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 1149.0,
+     "s": true
     }
    ]
   },
@@ -2068,7 +2133,7 @@
    "price": 749.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 500,
    "sizeGrams": 500,
@@ -2190,6 +2255,11 @@
      "d": "2026-11-24",
      "p": 749.0,
      "s": false
+    },
+    {
+     "d": "2026-11-25",
+     "p": 749.0,
+     "s": false
     }
    ]
   },
@@ -2209,7 +2279,7 @@
    "price": 649.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 500,
    "sizeGrams": 500,
@@ -2331,6 +2401,11 @@
      "d": "2026-11-24",
      "p": 649.0,
      "s": false
+    },
+    {
+     "d": "2026-11-25",
+     "p": 649.0,
+     "s": false
     }
    ]
   },
@@ -2350,7 +2425,7 @@
    "price": 1449.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 500,
    "sizeGrams": 500,
@@ -2470,6 +2545,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 1449.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-25",
      "p": 1449.0,
      "s": false
     }
@@ -2945,7 +3025,7 @@
    "price": 1293.67,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 500,
    "sizeGrams": 500,
@@ -3065,6 +3145,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 1293.67,
+     "s": false
+    },
+    {
+     "d": "2026-11-25",
      "p": 1293.67,
      "s": false
     }
@@ -3086,7 +3171,7 @@
    "price": 1293.67,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 500,
    "sizeGrams": 500,
@@ -3208,6 +3293,11 @@
      "d": "2026-11-24",
      "p": 1293.67,
      "s": false
+    },
+    {
+     "d": "2026-11-25",
+     "p": 1293.67,
+     "s": false
     }
    ]
   },
@@ -3227,7 +3317,7 @@
    "price": 1250.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
@@ -3344,6 +3434,11 @@
      "d": "2026-11-24",
      "p": 1250.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 1250.0,
+     "s": true
     }
    ]
   },
@@ -3363,7 +3458,7 @@
    "price": 1200.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
@@ -3480,6 +3575,11 @@
      "d": "2026-11-24",
      "p": 1200.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 1200.0,
+     "s": true
     }
    ]
   },
@@ -3499,7 +3599,7 @@
    "price": 1250.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
@@ -3616,6 +3716,11 @@
      "d": "2026-11-24",
      "p": 1250.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 1250.0,
+     "s": true
     }
    ]
   },
@@ -3635,7 +3740,7 @@
    "price": 1500.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 500,
@@ -3750,6 +3855,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 1500.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 1500.0,
      "s": true
     }
@@ -3771,7 +3881,7 @@
    "price": 1500.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 500,
@@ -3888,6 +3998,11 @@
      "d": "2026-11-24",
      "p": 1500.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 1500.0,
+     "s": true
     }
    ]
   },
@@ -3905,7 +4020,7 @@
    "price": 1999.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4021,6 +4136,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 1999.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 1999.0,
      "s": true
     }
@@ -4040,7 +4160,7 @@
    "price": 279.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4156,6 +4276,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 279.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 279.0,
      "s": true
     }
@@ -4175,7 +4300,7 @@
    "price": 269.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4291,6 +4416,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 269.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 269.0,
      "s": true
     }
@@ -4310,7 +4440,7 @@
    "price": 2299.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4426,6 +4556,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 2299.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 2299.0,
      "s": true
     }
@@ -4445,7 +4580,7 @@
    "price": 319.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4561,6 +4696,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 319.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 319.0,
      "s": true
     }
@@ -4580,7 +4720,7 @@
    "price": 2599.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4698,6 +4838,11 @@
      "d": "2026-11-24",
      "p": 2599.0,
      "s": true
+    },
+    {
+     "d": "2026-11-25",
+     "p": 2599.0,
+     "s": true
     }
    ]
   },
@@ -4715,7 +4860,7 @@
    "price": 2399.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": 1000,
    "history": [
@@ -4833,6 +4978,11 @@
      "d": "2026-11-24",
      "p": 2399.0,
      "s": false
+    },
+    {
+     "d": "2026-11-25",
+     "p": 2399.0,
+     "s": false
     }
    ]
   },
@@ -4850,7 +5000,7 @@
    "price": 1599.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4966,6 +5116,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 1599.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 1599.0,
      "s": true
     }
@@ -4985,7 +5140,7 @@
    "price": 459.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -5101,6 +5256,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 459.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 459.0,
      "s": true
     }
@@ -5120,7 +5280,7 @@
    "price": 1899.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -5236,6 +5396,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 1899.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 1899.0,
      "s": true
     }
@@ -5256,7 +5421,7 @@
    "price": 419.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -5372,6 +5537,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 419.0,
+     "s": false
+    },
+    {
+     "d": "2026-11-25",
      "p": 419.0,
      "s": false
     }
@@ -5392,7 +5562,7 @@
    "price": 319.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -5508,6 +5678,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 319.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 319.0,
      "s": true
     }
@@ -5528,7 +5703,7 @@
    "price": 339.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-24T14:38:47Z",
+   "checked": "2026-11-25T13:59:11Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -5644,6 +5819,11 @@
     },
     {
      "d": "2026-11-24",
+     "p": 339.0,
+     "s": true
+    },
+    {
+     "d": "2026-11-25",
      "p": 339.0,
      "s": true
     }
