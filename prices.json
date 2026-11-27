@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-11-27T13:34:13Z",
+ "generated": "2026-11-27T22:25:48Z",
  "currency": "ZAR",
  "items": [
   {
@@ -112,7 +112,7 @@
    "price": 290.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 150,
    "history": [
@@ -297,7 +297,7 @@
    "price": 280.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 100,
    "history": [
@@ -453,7 +453,7 @@
    "inStock": true,
    "currency": "ZAR",
    "checked": "2026-11-27T13:34:13Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 100,
    "history": [
     {
@@ -632,7 +632,7 @@
    "price": 275.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 100,
    "history": [
@@ -789,7 +789,7 @@
    "price": 395.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 50,
    "history": [
@@ -1010,7 +1010,7 @@
    "price": 1360.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
@@ -1164,7 +1164,7 @@
    "price": 2220.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 1000,
    "history": [
@@ -1314,7 +1314,7 @@
    "price": 270.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -1460,7 +1460,7 @@
    "price": 350.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 50,
    "history": [
@@ -1668,7 +1668,7 @@
    "price": 395.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 50,
    "history": [
@@ -1792,16 +1792,16 @@
    "packNote": "size from product URL",
    "name": "ALLIANT RELODER UNIQUE VERSATILE FLAKE SMOKELESS GUN POWDER 454G",
    "url": "https://safarioutdoor.co.za/alliant-reloder-unique-454g",
-   "price": 1099.0,
+   "price": 869.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 454,
    "sizeGrams": 454,
    "sizeSource": "product name",
-   "pricePerKg": 2420.7,
-   "pricePerGrain": 0.1569,
+   "pricePerKg": 1914.1,
+   "pricePerGrain": 0.124,
    "history": [
     {
      "d": "2026-11-02",
@@ -1930,7 +1930,7 @@
     },
     {
      "d": "2026-11-27",
-     "p": 1099.0,
+     "p": 869.0,
      "s": true
     }
    ]
@@ -1951,7 +1951,7 @@
    "price": 1349.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 454,
    "sizeGrams": 454,
@@ -2107,7 +2107,7 @@
    "price": 1149.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 454,
    "sizeGrams": 454,
@@ -2263,7 +2263,7 @@
    "price": 749.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 500,
    "sizeGrams": 500,
@@ -2419,7 +2419,7 @@
    "price": 649.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 500,
    "sizeGrams": 500,
@@ -2575,7 +2575,7 @@
    "price": 1449.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 500,
    "sizeGrams": 500,
@@ -3186,7 +3186,7 @@
    "inStock": false,
    "currency": "ZAR",
    "checked": "2026-11-27T13:34:13Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 500,
    "sizeGrams": 500,
    "sizeSource": "product name",
@@ -3342,7 +3342,7 @@
    "inStock": false,
    "currency": "ZAR",
    "checked": "2026-11-27T13:34:13Z",
-   "error": null,
+   "error": "HTTP Error 403: Forbidden",
    "detectedPack": 500,
    "sizeGrams": 500,
    "sizeSource": "product name",
@@ -3497,7 +3497,7 @@
    "price": 1250.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
@@ -3648,7 +3648,7 @@
    "price": 1200.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
@@ -3799,7 +3799,7 @@
    "price": 1250.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 454,
@@ -3950,7 +3950,7 @@
    "price": 1500.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 500,
@@ -4101,7 +4101,7 @@
    "price": 1500.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "sizeGrams": 500,
@@ -4247,10 +4247,10 @@
    "caliber": null,
    "name": "CCI SMALL PISTOL PRIMER 500 1000 COUNT RELIABLE IGNITION FOR PISTOL RELOADING",
    "url": "https://safarioutdoor.co.za/primers-small-pistol-cci-500-1000",
-   "price": 2199.0,
+   "price": 1749.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4381,7 +4381,7 @@
     },
     {
      "d": "2026-11-27",
-     "p": 2199.0,
+     "p": 1749.0,
      "s": true
     }
    ]
@@ -4400,7 +4400,7 @@
    "price": 279.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4550,7 +4550,7 @@
    "price": 269.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4697,10 +4697,10 @@
    "caliber": null,
    "name": "FIOCCHI SMALL PISTOL PRIMER 1500 PACK RELOADING PRIMERS FOR IPSC & SPORT SHOOTING",
    "url": "https://safarioutdoor.co.za/primers-small-pistol-fiocchi-1500",
-   "price": 2799.0,
+   "price": 1699.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -4831,7 +4831,7 @@
     },
     {
      "d": "2026-11-27",
-     "p": 2799.0,
+     "p": 1699.0,
      "s": false
     }
    ]
@@ -4850,7 +4850,7 @@
    "price": 319.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -5000,7 +5000,7 @@
    "price": 2599.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -5150,7 +5150,7 @@
    "price": 2399.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": 1000,
    "history": [
@@ -5300,7 +5300,7 @@
    "price": 1599.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -5450,7 +5450,7 @@
    "price": 459.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -5600,7 +5600,7 @@
    "price": 1899.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -5751,7 +5751,7 @@
    "price": 419.0,
    "inStock": false,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -5902,7 +5902,7 @@
    "price": 319.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
@@ -6053,7 +6053,7 @@
    "price": 339.0,
    "inStock": true,
    "currency": "ZAR",
-   "checked": "2026-11-27T13:34:13Z",
+   "checked": "2026-11-27T22:25:48Z",
    "error": null,
    "detectedPack": null,
    "history": [
